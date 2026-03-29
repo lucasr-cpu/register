@@ -1,9 +1,10 @@
 {
-  "owner": {
-    "username": "lucasr-cpu",
-    "email": "extrpi696423@alwaysdata.net"
-  },
-  "records": {
-    "CNAME": "39d8c7eb-ed96-47d9-8b45-444a26eaa6bb.cfargotunnel.com"
-  }
+    "owner": {
+        "username": "lucasr-cpu",
+        "email": "extrpi696423@alwaysdata.net"
+    },
+    "record": {
+        "CNAME": "39d8c7eb-ed96-47d9-8b45-444a26eaa6bb.cfargotunnel.com",
+        "MX": ["mx1.alwaysdata.net.", "mx2.alwaysdata.net."]
+    }
 }
